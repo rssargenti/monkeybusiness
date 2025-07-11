@@ -4,3 +4,24 @@ draft: false
 tags:
   - 
 ---
+
+> [!NOTE] Title
+> Contents
+
+
+> [!ERROR] Title
+> Contents
+
+
+> [!DONE] Title
+> Contents
+
+
+
+| table | one |
+| ----- | --- |
+| test  | A   |
+|       |     |
+|       |     |
+
+**Bold text,** followed by *italic*.
